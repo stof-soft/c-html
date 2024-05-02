@@ -1,2 +1,2 @@
-# chtml
-simple html parser
+# c-html
+simple html parser in C
